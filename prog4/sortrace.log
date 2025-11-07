@@ -1,0 +1,50 @@
+=======Start=======
+Sat Nov  1 19:11:04 PDT 2025
+My machine has this many processors
+28
+Generating 1000000 random numbers
+Starting system sort
+
+real	0m1.281s
+user	0m0.406s
+sys	0m0.059s
+Starting my sort
+Process 3 swap count:320347492
+Process 19 swap count:318116577
+Process 26 swap count:318316395
+Process 14 swap count:318394381
+Process 9 swap count:318919183
+Process 4 swap count:316720500
+Process 10 swap count:318741030
+Process 18 swap count:318723392
+Process 12 swap count:321663521
+Process 8 swap count:319133009
+Process 5 swap count:318282866
+Process 27 swap count:318618264
+Process 23 swap count:320446891
+Process 24 swap count:319207596
+Process 7 swap count:318430271
+Process 21 swap count:318976735
+Process 22 swap count:317673900
+Process 20 swap count:319621588
+Process 13 swap count:317092963
+Process 6 swap count:317554895
+Process 11 swap count:317791217
+Process 25 swap count:319669809
+Process 0 swap count:318330813
+Process 15 swap count:318619552
+Process 17 swap count:318313748
+Process 16 swap count:320584928
+Process 1 swap count:320500055
+Process 2 swap count:318173773
+Total Swaps:8926965344
+
+real	2m16.274s
+user	1m30.331s
+sys	0m2.864s
+-rwxrwxrwx 1 fuzerius fuzerius 7388626 Nov  1 19:13 systemsort.out
+-rwxrwxrwx 1 fuzerius fuzerius 7388626 Nov  1 19:15 mysort.out
+Comparing systemsort.out to mysort.out
+All done
+=======End=======
+Sat Nov  1 19:15:43 PDT 2025
